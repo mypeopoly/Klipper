@@ -1,4 +1,5 @@
-Welcome to the Klipper project!
+Welcome to the Magneto X Klipper project!
+This project is fork from [klipper rpo](https://github.com/Klipper3d/klipper).
 
 [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
 
