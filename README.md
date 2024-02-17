@@ -8,7 +8,9 @@ The Magneto X, with its state-of-the-art MagXY magnetic levitation linear motor 
 
 ## Why Klipper for Magneto X?
 Precision and Speed: Klipper's unique approach to motion planning allows the Magneto X to achieve its maximum print and travel speeds with extraordinary precision.
+
 Feature-Rich: Exploit Klipper's extensive feature set, including advanced calibration, dynamic speed control, and improved thermal management, tailored for the Magneto X.
+
 Community and Support: Join a vibrant community of developers and users dedicated to pushing the boundaries of what's possible with the Magneto X and Klipper firmware.
 
 ## Getting Started
