@@ -1,5 +1,5 @@
 
-Welcome to the Magneto X Klipper Firmware Project! This repository is a dedicated fork from the original Klipper repository, tailored specifically for the Magneto X 3D printer.
+Welcome to the Magneto X Klipper Firmware Project! This repository is a dedicated fork from the original [Klipper repository](https://github.com/Klipper3d/klipper), tailored specifically for the Magneto X 3D printer.
 
 ## Klipper Firmware for Magneto X
 Klipper is an advanced 3D printer firmware that leverages the computing power of a general-purpose computer in conjunction with one or more micro-controllers to achieve superior printing performance. By offloading much of the heavy lifting to a more capable processor, Klipper can drive your Magneto X with unparalleled precision and speed.
